@@ -1,0 +1,2 @@
+alfred-staticfile-cdn-workflow
+==============================
